@@ -5782,9 +5782,5 @@
 #N3RO
 (^|\.)n3ro\.net$
 
-#speedtest
-(^|\.)speedtest\.net$
-(^|\.)ooklaserver\.net$
-
 #github
 (^|\.)github\.com$
