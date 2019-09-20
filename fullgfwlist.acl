@@ -5784,6 +5784,7 @@
 
 #speedtest
 (^|\.)speedtest\.net$
+(^|\.)ooklaserver\.net$
 
 #github
 (^|\.)github\.com$
