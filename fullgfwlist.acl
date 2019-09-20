@@ -5784,3 +5784,6 @@
 
 #speedtest
 (^|\.)speedtest\.net$
+
+#github
+(^|\.)github\.com$
