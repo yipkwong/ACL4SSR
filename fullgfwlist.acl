@@ -5781,3 +5781,6 @@
 
 #N3RO
 (^|\.)n3ro\.net$
+
+#speedtest
+(^|\.)speedtest\.net$
