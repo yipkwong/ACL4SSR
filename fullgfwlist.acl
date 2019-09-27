@@ -5784,3 +5784,6 @@
 
 #github
 (^|\.)github\.com$
+
+#google
+(^|\.)dl.google\.com$
