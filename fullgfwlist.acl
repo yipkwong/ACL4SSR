@@ -37,6 +37,11 @@
 (^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
 (^|\.)raw\.githubusercontent\.com$
 
+#yipkwongList
+(^|\.)maying\.co$
+(^|\.)n3ro\.net$
+(^|\.)dl.google\.com$
+
 #GFWList IP start
 85.17.73.31
 174.142.105.153
@@ -5776,14 +5781,4 @@
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
 
-#Maying
-(^|\.)maying\.co$
 
-#N3RO
-(^|\.)n3ro\.net$
-
-#github
-(^|\.)github\.com$
-
-#google
-(^|\.)dl.google\.com$
